@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Sreeram S Nair  
 
-<!--
-**SreeramSNair-7/SreeramSNair-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Developer | B.Tech CSE @ KTU**  
+💻 Exploring **Python, C, and Java**  
+🔐 Passionate about **Cybersecurity**, especially **Network Security**  
+🌱 Always learning, always curious  
+🤝 Want to use my skills for the **welfare of society**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Currently pursuing **Computer Science Engineering**  
+- 🛠️ Building projects to strengthen my fundamentals  
+- 🌐 Interested in **ethical hacking, penetration testing, and secure systems**  
+- 📚 Love exploring how things work at the **system and network level**  
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Python | C | Java  
+- **Tools & Platforms:** Linux | GitHub | Virtualization (VMs) - Kali Linux
+- **Interests:** Cybersecurity | Network Security | Open Source  
+
+---
+
+## 📌 Featured Project
+- [Attendance-Management-System](https://github.com/SreeramSNair-7/Attendance-Management-System)  
+  *A simple academic project using Java (Swing UI) and MySQL backend.*  
+
+---
+
+## 🌟 Fun Fact
+I believe technology should not just solve problems, but also **make a positive impact on society**.  
+
+---
+
+📫 **Reach me at:**  
+- GitHub: [@SreeramSNair-7](https://github.com/SrEE-RaM-7)  
