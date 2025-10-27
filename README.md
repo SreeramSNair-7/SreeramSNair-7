@@ -35,4 +35,5 @@ I believe technology should not just solve problems, but also **make a positive 
 ---
 
 📫 **Reach me at:**  
-- GitHub: [@SreeramSNair-7](https://github.com/SrEE-RaM-7)  
+- GitHub: [@SreeramSNair-7](https://github.com/SrEE-RaM-7)
+- LinkedIn: [@SreeramSNair7](https://www.linkedin.com/in/sreeramsnair77/)
